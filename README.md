@@ -1,3 +1,5 @@
+gelene kadar star atın la
+
 ## Çok Yakında
 çok yakında v13 banbot geliyorr rate limite düşmeden loo
 
