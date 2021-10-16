@@ -1,0 +1,7 @@
+{
+    "token": "DISCORD_BOT_TOKEN",
+    "prefix": "BOT_PREFIX",
+    "userID": "OWNER_ID",
+    "disableEveryone": false,
+    "OwnerName":"Banker-Pending"
+}
