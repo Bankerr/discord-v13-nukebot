@@ -1,6 +1,7 @@
 tr de 2. ilk olan şeyi yaptığımız için bi star atın be ölmessiniz herkese iyi kodlamalar!
 ## Kurulum
 
+ilk önce 'Launch.bat' dosyasından modülleri indirip 'presser.bat' dosyasından botu başlatabilirisiniz
 kurulum çok basit config.json a doldun herşeyi bitiyor sadece 'disableEveryone' bu ne demek diye sorucaksınız bottaki komutları herkes kullanabilirmi demek true sadece 'userID' yazan kişi kullanabilir false ise herkes kullanabilir demek
 
 ## Diğer Botlarım
