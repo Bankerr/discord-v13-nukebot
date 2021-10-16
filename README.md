@@ -1,4 +1,4 @@
-gelene kadar star atın la
+gelene kadar star atın la tr de ilk bu arada
 
 ## Çok Yakında
 çok yakında v13 banbot geliyorr rate limite düşmeden loo
